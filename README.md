@@ -146,7 +146,7 @@ dog-breed-classifications/
 
 ## 👨‍💻 Author
 
-**Kanchan**
+**creatorKrishna**
 
 GitHub:
 https://github.com/creatorKrishna05
